@@ -1,4 +1,3 @@
-- Hi, I’m @iain-sandison, an MChem graduate and software engineering consultant currently working with Bright Network
-- I’ve recently been having a play about with Java and PHP mostly, creating small projects with an increasing number of coding topics
-- I'm still very new, having started my coding career as part of the BNTA from February 2021 but I some day hope to leave my mark on the industry
-- If you would like to reach me for any reason then fire me an email at: iain.sandison.mousa@gmail.com
+- Hi, I’m @iain-sandison, an MChem graduate and Associate Software Engineering Trainer currently working with Bright Network
+- I’ve recently been having a play about with generative art, creating small projects with an increasing number of coding topics
+- I'm still very new, having started my coding career as part of the BNTA in February 2021 but if you would like to reach me for any reason then fire me an email at: iain.sandison.mousa@gmail.com
